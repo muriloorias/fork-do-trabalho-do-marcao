@@ -1,0 +1,55 @@
+body{
+    background-color: #0a2342;
+    color: white;
+}
+
+.cripto-visao{
+    width: 80px;
+    height: 50px;
+}
+
+.main-menu{
+    display: flex;
+    align-items: center;
+    position: fixed;
+   
+}
+
+.main-menu a{
+    text-decoration: none;
+    color: white;
+}
+.links{
+    margin-left: 400px;
+    word-spacing: 100px;
+}
+.imagem1 {
+    height: 200px;
+    margin-left: 250px;
+}
+
+.stellar {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+.geral {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.title {
+    margin-top: 50px;
+}
+.stellar1 {
+    margin-top: 50px;
+}
+.stellar2 {
+    margin-top: 50px;
+}
+.stellar3 {
+    margin-top: 50px;
+}
+.stellar4 {
+    margin-top: 50px;
+}
