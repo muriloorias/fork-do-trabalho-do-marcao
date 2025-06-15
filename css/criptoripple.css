@@ -9,10 +9,11 @@ body{
 }
 
 .main-menu{
+    
     display: flex;
     align-items: center;
-    position: fixed;
-   
+    position: relative;
+    
 }
 
 .main-menu a{
